@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+</head>
+<body>
+	<form>
+		First Name : <input type="text" name=""><br>
+		Last Name  : <input type="text" name=""><br>
+		Email      : <input type="email" required name=""><br>
+		Birthday   : <input type="date" name=""><br>
+	</form>
+
+</body>
+</html>
